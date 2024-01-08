@@ -1,0 +1,16 @@
+{
+  "name": "openweatherapi",
+  "version": "1.0.0",
+  "description": "Using to call Api Server with our server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "gh-pages": "^6.1.1"
+  }
+}
