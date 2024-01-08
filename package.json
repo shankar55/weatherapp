@@ -4,7 +4,7 @@
   "description": "Using to call Api Server with our server",
   "main": "index.js",
   "scripts": {
-    "start": "node npm start",
+    "start": "node  app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
